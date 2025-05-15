@@ -16,6 +16,7 @@ git push -u origin master
 
 ```bash
 git branch 分支名稱
+git checkout 分支名稱
 ```
 
 ### ✅ 範例：
@@ -30,7 +31,7 @@ git branch feature/login-page
 ## 🔀 2. 切換分支
 
 ```bash
-git checkout 分支名稱
+git switch 分支名稱
 ```
 
 ### ✅ 範例：
