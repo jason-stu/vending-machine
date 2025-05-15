@@ -5,7 +5,7 @@
 git init
 git remote add origin https://github.com/你的帳號/你的repo.git
 git add .
-git commit -m "Initial commit"
+git commit -m "上傳訊息內容"
 git push -u origin master
 ```
 
